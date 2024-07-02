@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505125381180",
+    "project_id": "pocketbook-a2bda",
+    "storage_bucket": "pocketbook-a2bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505125381180:android:ac201978d62ef721f2cf39",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkN3dMTU9T4j9GMU8HBkXQcE8541lse_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
